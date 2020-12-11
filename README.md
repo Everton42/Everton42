@@ -7,7 +7,6 @@
 :bulb: Adoro estudar e aprender novas tecnologias.  
 :mortar_board: Sou estudante de Ciência da Computação.  
 :seedling: Gosto de plantar e cultivar alimentos.  
-:page_facing_up: Este é o meu [currículo](https://drive.google.com/file/d/1pkMsVNMzDPZ0zSUHik2furcLFWAImvHB/view?usp=sharing) para mais informações.
 
 ### 🛠 Linguagens e Frameworks
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
